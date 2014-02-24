@@ -24,4 +24,4 @@ while True:
     print 'send date:',date,
     dateReci = clientSocket.recv(1024)
     print 'received date:', dateReci,
-
+#mySendPacket = ""
